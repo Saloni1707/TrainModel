@@ -1,7 +1,7 @@
 # TrainModel
 
 📊 Linear Regression with Keras – 
-This project is part of Google’s Machine Learning Crash Course. We trained a linear regression model using Keras to predict taxi fares based on trip data.
+We trained a linear regression model using Keras to predict taxi fares based on trip data.
 
 🔧 Features Used
 TRIP_MILES (distance)
